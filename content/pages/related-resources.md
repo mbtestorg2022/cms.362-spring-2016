@@ -22,13 +22,13 @@ The following are examples of collaborative design workshops that may be used de
 
 Irani, Lilly C., and M. Silberman. "[Turkopticon: Interrupting Worker Invisibility in Amazon Mechanical Turk](http://crowdsourcing-class.org/readings/downloads/ethics/turkopticon.pdf)." _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_, ACM (2013): 611–20.
 
-Lee, Caroline W. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Participatory Practices in Organizations." (PDF)](http://sites.lafayette.edu/leecw/files/2010/03/Lee-2015-Sociology_Compass.pdf) _Sociology Compass_ 9, no. 4 (2015): 272–88.
+Lee, Caroline W. ["Participatory Practices in Organizations." (PDF)](http://sites.lafayette.edu/leecw/files/2010/03/Lee-2015-Sociology_Compass.pdf) _Sociology Compass_ 9, no. 4 (2015): 272–88.
 
 Benkler, Yochai. "[Practical Anarchism: Peer Mutualism, Market Power, and the Fallible State](http://dx.doi.org/10.1177/0032329213483108)." _Politics & Society_ 41, no. 2 (2013): 213–51.
 
 Scholz, Trebor. "[Platform Cooperativism-Challenging the Corporate Sharing Economy](http://www.rosalux-nyc.org/platform-cooperativism-2/)." _Rosa Luxemburg Foundation,_ January, 2016.
 
-Freeman, Jo. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Tyranny of Structurelessness." (PDF)](http://struggle.ws/pdfs/tyranny.pdf) _WSQ: Women's Studies Quarterly_ 41, no. 3 (2013): 231–46.
+Freeman, Jo. ["The Tyranny of Structurelessness." (PDF)](http://struggle.ws/pdfs/tyranny.pdf) _WSQ: Women's Studies Quarterly_ 41, no. 3 (2013): 231–46.
 
 Kerr, Camille. "[A Brief Guide to Understanding Employee Ownership Structures](http://institute.coop/resources/brief-guide-understanding-employee-ownership-structures)." Democracy at Work Institute, 2015.
 

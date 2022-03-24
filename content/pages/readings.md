@@ -40,7 +40,7 @@ Orsi, Janelle. "[The Sharing Economy Just Got Real](http://www.shareable.net/blo
 
 ### Suggested
 
-Skim this: Slokum, Nikki. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Participatory Methods Toolkit: A Practitioner's Manual." (PDF - 1.8MB)](http://archive.unu.edu/hq/library/Collection/PDF_files/CRIS/PMT.pdf) King Baudouin Foundation, 2003.
+Skim this: Slokum, Nikki. ["Participatory Methods Toolkit: A Practitioner's Manual." (PDF - 1.8MB)](http://archive.unu.edu/hq/library/Collection/PDF_files/CRIS/PMT.pdf) King Baudouin Foundation, 2003.
 
 
 {{< tdclose >}}
@@ -82,9 +82,9 @@ Design Histories, MVP (Minimum Viable Product), & Working Agreements
 {{< tdopen >}}
 
 
-DiSalvo, Carl. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Design, Democracy and Agonistic Pluralism." (PDF)](http://www.drs2010.umontreal.ca/data/PDF/031.pdf)
+DiSalvo, Carl. ["Design, Democracy and Agonistic Pluralism." (PDF)](http://www.drs2010.umontreal.ca/data/PDF/031.pdf)
 
-Irani, Lilly, Janet Vertesi, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Postcolonial Computing: A Lens on Design and Development (PDF)](http://www.dourish.com/publications/2010/chi2010-postcolonial.pdf)." ACM, pp. 1311–20.
+Irani, Lilly, Janet Vertesi, et al. "[Postcolonial Computing: A Lens on Design and Development (PDF)](http://www.dourish.com/publications/2010/chi2010-postcolonial.pdf)." ACM, pp. 1311–20.
 
 Rhea, Preston. "[Collaborative Design Strategies for Community Technology](https://www.newamerica.org/oti/blog/collaborative-design-strategies-for-community-technology/)." New America Foundation, November 19, 2010.
 
@@ -112,11 +112,11 @@ Cooperatives & Business Model Canvas Workshop
 {{< tdopen >}}
 
 
-Nembhard, Jessica G., Michael Johnson, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Worker Cooperative Development Models and Approaches: A Brief Overview](http://geo.coop/node/627)." _Grassroots Economic Organizing (GEO) Newsletter_ 2, no. 8 (2011).
+Nembhard, Jessica G., Michael Johnson, et al. "[Worker Cooperative Development Models and Approaches: A Brief Overview](http://geo.coop/node/627)." _Grassroots Economic Organizing (GEO) Newsletter_ 2, no. 8 (2011).
 
-Palmer, Tim. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[U.S. Worker Cooperatives: A State of the Sector (PDF)](http://institute.coop/sites/default/files/resources/State_of_the_sector_0.pdf). Democracy at Work Institute. 2015.
+Palmer, Tim. [U.S. Worker Cooperatives: A State of the Sector (PDF)](http://institute.coop/sites/default/files/resources/State_of_the_sector_0.pdf). Democracy at Work Institute. 2015.
 
-Osterwalder, Alexander, and Yves Pigneur. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Business Model Generation." (PDF - 5.3MB)](http://www.businessmodelgeneration.com/downloads/businessmodelgeneration_preview.pdf) pp. 14–49.
+Osterwalder, Alexander, and Yves Pigneur. ["Business Model Generation." (PDF - 5.3MB)](http://www.businessmodelgeneration.com/downloads/businessmodelgeneration_preview.pdf) pp. 14–49.
 
 ### Suggested
 
@@ -124,7 +124,7 @@ Watch: [Shift Change](http://shiftchange.org/) (2012)
 
 Sytsma, Michael. "[Capital Continuum: A Roadmap to Business Financing](https://grbj.com/opinion/capital-continuum-a-roadmap-to-business-financing/)." _Grand Rapids Business Journal_. March 15, 2003.
 
-Andrews, A. Michael. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Appendix 2: Debt and Equity Instruments." (PDF - 3.3MB)](https://www.researchgate.net/publication/274384036_Survey_of_Cooperative_Capital) _Survey of Co-operative Capital_. International Co-operative Alliance.
+Andrews, A. Michael. ["Appendix 2: Debt and Equity Instruments." (PDF - 3.3MB)](https://www.researchgate.net/publication/274384036_Survey_of_Cooperative_Capital) _Survey of Co-operative Capital_. International Co-operative Alliance.
 
 
 {{< tdclose >}}
@@ -142,7 +142,7 @@ Present Canvas, Discuss Risks & Customer Development Workshop
 
 Gothelf, Jeff, and Josh Seiden. _Lean UX: Applying Lean Principles to Improve User Experience_. O'Reilly Media, 2013. ISBN: 9781449311650. \[Preview with [Google Books](http://books.google.com/books?id=7TDQ4WZ1BHoC&pg=PAfrontcover)\]
 
-Constable, Giff. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Talking to Humans." (PDF - 2.1MB)](https://s3.amazonaws.com/TalkingtoHumans/Talking+to+Humans.pdf)
+Constable, Giff. ["Talking to Humans." (PDF - 2.1MB)](https://s3.amazonaws.com/TalkingtoHumans/Talking+to+Humans.pdf)
 
 
 {{< tdclose >}}
@@ -184,7 +184,7 @@ Appropriation, Innovation & Midpoint Evaluations
 {{< tdopen >}}
 
 
-Eglash, Ron. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Appropriating Technology: An Introduction." (PDF)](http://appropriatingtechnology.org/?q=node/155) In _Appropriating Technology: Vernacular Science and Social Power_. Unniversity of Minnesota Press, 2004, pp. vii–xxi. ISBN: 9780816634279. \[Preview with [Google Books](http://books.google.com/books?id=Q7dgWYaDHTUC&pg=PAfrontcover)\]
+Eglash, Ron. ["Appropriating Technology: An Introduction." (PDF)](http://appropriatingtechnology.org/?q=node/155) In _Appropriating Technology: Vernacular Science and Social Power_. Unniversity of Minnesota Press, 2004, pp. vii–xxi. ISBN: 9780816634279. \[Preview with [Google Books](http://books.google.com/books?id=Q7dgWYaDHTUC&pg=PAfrontcover)\]
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262002745) Von Hippel, Eric. "Application: Toolkits for User Innovation and Custom Design." In _Democratizing Innovation_. MIT Press, 2005. ISBN: 9780262002745.
 
